@@ -13,7 +13,7 @@
 * 10.[一球从 100 米高度自由落下,每次落地后反跳回原高度的一半;再落下,求它在第 10 次落地时,共经过多少米?第 10 次反弹多高?](https://github.com/guoyucode/c2go/blob/master/10.go)
 * 11.[一只猴子摘了 N 个桃子第一天吃了一半又多吃了一个,第二天又吃了余下的一半又多吃了一个,到第十天的时候发现还有一个.](https://github.com/guoyucode/c2go/blob/master/11.go)
 * 12.[打印出如下图案(菱形)](https://github.com/guoyucode/c2go/blob/master/12.go)
-* 13.[一个 5 位数,判断它是不是回文数。即 12321 是回文数,个位与万位相同,十位与千位相同。]https://github.com/guoyucode/c2go/blob/master/13.go)
+* 13.[一个 5 位数,判断它是不是回文数。即 12321 是回文数,个位与万位相同,十位与千位相同。](https://github.com/guoyucode/c2go/blob/master/13.go)
 * 14.[求 100 之内的素数](https://github.com/guoyucode/c2go/blob/master/14.go)
 * 15.[对 10 个数进行排序](https://github.com/guoyucode/c2go/blob/master/15.go)
 * 16.[有一个已经排好序的数组。现输入一个数,要求按原来的规律将它插入数组中。](https://github.com/guoyucode/c2go/blob/master/16.go)
